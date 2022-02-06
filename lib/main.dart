@@ -1,4 +1,4 @@
-import 'package:db_miner2/screens/landing_screen.dart';
+import 'package:db_miner2/screens/category_screen.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'dart:math';
